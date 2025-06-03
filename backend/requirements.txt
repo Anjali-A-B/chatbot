@@ -1,0 +1,26 @@
+# requirements.txt
+
+llama-cpp-python
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+streamlit
+torch
+torchaudio
+streamlit-audiorecorder
+# sentencepiece
+sounddevice
+soundfile
+
+
+nicegui
+ffmpeg-python
+
+flask
+flask_cors
+langdetect
+googletrans
+pymysql
+jwt
