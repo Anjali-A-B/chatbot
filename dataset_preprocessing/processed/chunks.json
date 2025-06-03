@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "text": "Q: What are your customer service hours? A: Our customer service team is available from 9 AM to 6 PM, Monday through Saturday."
+  },
+  {
+    "id": 1,
+    "text": "Q: How can I track my order? A: You can track your order using the tracking number provided in your shipping confirmation email."
+  },
+  {
+    "id": 2,
+    "text": "Q: Can I cancel my order after placing it? A: Yes, you can cancel your order within 2 hours of placing it, provided it has not been shipped."
+  },
+  {
+    "id": 3,
+    "text": "Q: Do you offer international shipping? A: Yes, we ship internationally. Shipping charges and times may vary depending on your location."
+  },
+  {
+    "id": 4,
+    "text": "Q: What is your return policy? A: We offer a 30-day return window from the date of delivery. Items must be unused and in original packaging."
+  },
+  {
+    "id": 5,
+    "text": "Q: How do I initiate a return? A: To initiate a return, visit your order history, select the item, and click 'Start Return'."
+  },
+  {
+    "id": 6,
+    "text": "Q: Do I need to pay for return shipping? A: Return shipping is free for defective or damaged items. For all other returns, a return fee applies."
+  },
+  {
+    "id": 7,
+    "text": "Q: How long does it take to receive a refund? A: Refunds are processed within 5–7 business days after we receive and inspect your returned item."
+  },
+  {
+    "id": 8,
+    "text": "Q: What payment methods do you accept? A: We accept Visa, MasterCard, American Express, PayPal, and Apple Pay."
+  },
+  {
+    "id": 9,
+    "text": "Q: Is it safe to use my credit card on your site? A: Yes, our site uses SSL encryption to protect your payment information."
+  },
+  {
+    "id": 10,
+    "text": "Q: Do you offer Cash on Delivery (COD)? A: Yes, COD is available in select cities for orders below $200."
+  },
+  {
+    "id": 11,
+    "text": "Q: Can I change my shipping address after placing the order? A: You can update your address within 1 hour of placing the order by contacting our support team."
+  },
+  {
+    "id": 12,
+    "text": "Q: Do you offer gift wrapping services? A: Yes, we offer gift wrapping for an additional $5. You can select this option during checkout."
+  },
+  {
+    "id": 13,
+    "text": "Q: How can I apply a discount code? A: Enter your discount code at checkout in the 'Promo Code' field before completing payment."
+  },
+  {
+    "id": 14,
+    "text": "Q: Why was my discount code not applied? A: Make sure the code hasn’t expired and meets the minimum order value."
+  },
+  {
+    "id": 15,
+    "text": "Q: My order says delivered, but I didn’t receive it. A: Please check with neighbors or your front desk. If not found, contact our support within 48 hours."
+  },
+  {
+    "id": 16,
+    "text": "Q: Can I change the size or color of an item after ordering? A: Unfortunately, we cannot modify items after the order is placed. You may cancel and reorder if it's still pending."
+  },
+  {
+    "id": 17,
+    "text": "Q: What happens if I receive a damaged product? A: Please contact our support with photos within 48 hours to receive a replacement or refund."
+  },
+  {
+    "id": 18,
+    "text": "Q: How can I contact customer service? A: You can reach us via email at support@company.com or call 1-800-555-1234."
+  },
+  {
+    "id": 19,
+    "text": "Q: Where is your company located? A: Our headquarters is based in New York City, but we ship globally."
+  },
+  {
+    "id": 20,
+    "text": "Q: Do you offer loyalty rewards? A: Yes, sign up for our rewards program and earn points on every purchase."
+  },
+  {
+    "id": 21,
+    "text": "Q: Can I purchase a gift card? A: Yes, we offer digital gift cards ranging from $25 to $200."
+  },
+  {
+    "id": 22,
+    "text": "Q: How do I redeem a gift card? A: Enter the gift card code at checkout in the payment section."
+  },
+  {
+    "id": 23,
+    "text": "Q: Is there a warranty on your products? A: Yes, we offer a 1-year warranty on all electronics and 6 months on other items."
+  },
+  {
+    "id": 24,
+    "text": "Q: How can I reset my account password? A: Go to the login page and click 'Forgot Password' to receive a reset link via email."
+  },
+  {
+    "id": 25,
+    "text": "Q: Can I merge two orders into one shipment? A: Unfortunately, we can't combine orders after they're placed."
+  },
+  {
+    "id": 26,
+    "text": "Q: How can I update my account details? A: Log in to your account and go to 'My Profile' to update your contact or address details."
+  },
+  {
+    "id": 27,
+    "text": "Q: Do you offer bulk purchase discounts? A: Yes, contact our sales team at bulk@company.com for bulk order quotes."
+  },
+  {
+    "id": 28,
+    "text": "Q: Why is my order delayed? A: Delays can occur due to weather, high demand, or supply chain issues. Check your email for updates."
+  },
+  {
+    "id": 29,
+    "text": "Q: How do I unsubscribe from marketing emails? A: Click the 'Unsubscribe' link at the bottom of any marketing email."
+  }
+]
